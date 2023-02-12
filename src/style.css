@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;700&display=swap');
+
+* {
+    margin-top: 2em;
+    text-align: center;
+    font-family: Quicksand !important;
+    font-weight: 700 !important;
+    color: #314457;
+}
+
+
+@media only screen and (max-width: 415px) {
+    
+    
+}
